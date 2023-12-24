@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebOlimp", "WebOlimp\WebOlimp.csproj", "{338EA3AF-C30C-46D8-8240-BC21C556FD7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{338EA3AF-C30C-46D8-8240-BC21C556FD7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{338EA3AF-C30C-46D8-8240-BC21C556FD7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{338EA3AF-C30C-46D8-8240-BC21C556FD7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{338EA3AF-C30C-46D8-8240-BC21C556FD7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {144ADCEE-14C6-4DD0-A25F-210821C9B49A}
+	EndGlobalSection
+EndGlobal
